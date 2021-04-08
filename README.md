@@ -1,4 +1,4 @@
-COMP90015 Assignment1
+Distributed System Assignment1
 This project is a multi client one server architecture, the main highlight is as follows:
 1. NIO.
 2. completed a built-in thread pool.
